@@ -27,7 +27,7 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
     </a>
 </p>
 
-
+---
 
 
 <img 
