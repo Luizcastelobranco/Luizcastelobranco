@@ -8,7 +8,26 @@ Atualmente, estudo e desenvolvo projetos utilizando Python, além de estar apren
 
 Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Alemão (A1).
 
----
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/luizcastelobranco">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+        />
+    </a>
+
+<a href="https://github.com/Luizcastelobranco?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Luizcastelobranco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+
 
 
 <img 
