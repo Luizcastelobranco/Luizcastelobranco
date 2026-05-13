@@ -48,17 +48,19 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 
 ### 📊 Estatísticas
 
-
-<img 
-    align="left" 
-    alt="Github Stats"
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-pink-nine-55.vercel.app/api?username=Luizcastelobranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-    align="left" 
-    alt="Github Stats"
-    height="200px" 
-    src="https://github-readme-stats-pink-nine-55.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="Github Stats"
+        src="https://github-readme-stats-pink-nine-55.vercel.app/api?username=Luizcastelobranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=400" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs"
+        src="https://github-readme-stats-pink-nine-55.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=400" 
+      />
+    </td>
+  </tr>
+</table>
