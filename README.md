@@ -31,69 +31,76 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 
 <br/> 
 
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img 
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
+/>
 
-  <img 
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
+/>
 
-  <img 
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
+/>
 
-  <img 
+<img 
+    align="left" 
     alt="CSS"
     title="CSS" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
+/>
 
-  <img 
+<img 
+    align="left" 
     alt="Firebase"
     title="Firebase" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
-  />
+/>
 
-  <img 
+<img 
+    align="left" 
     alt="Git"
     title="Git" 
-    width="40px" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-</p>
-
+/>
 
 <br/> 
 <br/>
 
-
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Luizcastelobranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-  />
-</p>
-
-
+<img 
+    align="left" 
+        alt="Github Stats"
+        height="200px" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=Luizcastelobranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+    align="left" 
+        alt="Github Stats"
+        height="200px" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
