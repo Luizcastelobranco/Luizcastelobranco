@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Luiz Felipe
+# 👨🏻‍💻 Luiz Castelo Branco
 
 **`Estudante de Ciência da Computação | Desenvolvedor Backend`**
 
-Me chamo Luiz Felipe, sou estudante de Ciência da Computação e apaixonado por tecnologia desde criança. Sempre tive grande interesse por hardware e por entender como as máquinas funcionam internamente. Com o tempo, essa curiosidade evoluiu para a programação, despertando em mim o interesse por desenvolvimento de software e pela forma como utilizamos código para criar soluções e automatizar processos.
+Me chamo Luiz Felipe Castelo Branco, sou estudante de Ciência da Computação e apaixonado por tecnologia desde criança. Sempre tive grande interesse por hardware e por entender como as máquinas funcionam internamente. Com o tempo, essa curiosidade evoluiu para a programação, despertando em mim o interesse por desenvolvimento de software e pela forma como utilizamos código para criar soluções e automatizar processos.
 
 Atualmente, estudo e desenvolvo projetos utilizando Python, além de estar aprendendo Java, HTML, CSS e bancos de dados NoSQL com Firebase. Estou constantemente buscando evoluir minhas habilidades e adquirir experiência prática através de projetos e estudos.
 
@@ -10,7 +10,6 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -69,7 +68,6 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 <p>
   <img 
