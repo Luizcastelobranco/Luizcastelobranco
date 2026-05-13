@@ -31,61 +31,69 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 
 <br/> 
 
-<img 
-    align="left" 
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img 
     alt="Python"
     title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Java"
     title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="CSS"
     title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Firebase"
     title="Firebase" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Git"
     title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+  />
+</p>
 
+
+<br/> 
 <br/>
 
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Luizcastelobranco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+  />
+</p>
 
 
