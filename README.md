@@ -58,7 +58,7 @@ Também possuo nível avançado de Inglês (C1) e atualmente estou aprendendo Al
 />
 <img 
     align="left" 
-    alt="Top Langs"
+    alt="Github Stats"
     height="200px" 
     src="https://github-readme-stats-pink-nine-55.vercel.app/api/top-langs/?username=Luizcastelobranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
